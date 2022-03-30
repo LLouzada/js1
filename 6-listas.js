@@ -14,4 +14,4 @@ console.log("Destinos Possíveis");
 console.log(listaDeDestinos);
 
 listaDeDestinos.splice(1,1);
-console.log(listaDeDestinos[1]);
+console.log(listaDeDestinos[1], listaDeDestinos[2]);
